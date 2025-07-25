@@ -9,7 +9,7 @@
 
 🎯Transformo datos en decisiones que marcan la diferencia.🎯
 
-Soy Almudena, Data Analyst con background en Recursos Humanos y visión estratégica. Analizo, visualizo y explico datos para resolver problemas reales en distintos ámbitos del negocio.
+Tengo amplio background en Recursos Humanos y visión estratégica. Analizo, visualizo y explico datos para resolver problemas reales en distintos ámbitos del negocio.
 
 📊 Me mueven la curiosidad, la claridad y el enfoque práctico.
 
