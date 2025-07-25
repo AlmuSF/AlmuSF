@@ -61,16 +61,14 @@ Tengo amplio background en Recursos Humanos y visión estratégica. Analizo, vis
 ## 📫 Conecta conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/almudena-sanchez-89232b1a3">
-    <img src="https://img.shields.io/badge/LinkedIn-Almudena-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/almudena-sanchez-89232b1a3" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Almudena%20Sánchez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:almudena.sanf@gmail.com">
-    <img src="https://img.shields.io/badge/Email-almudena.sanf@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-almudena.sanf@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
