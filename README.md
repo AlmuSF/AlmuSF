@@ -3,7 +3,7 @@
 <p align="center">
 
 
-## 👩‍💻 Data Analyst
+## 👩‍💻 Data Analyst / People Analytics
 
 **📍 Desde Málaga | 📊 Apasionada por los datos y la visualización | 🧠 Siempre aprendiendo**
 
