@@ -1,4 +1,4 @@
-# ¡Hola, soy **Almudena Sánchez**! ✨
+# ¡Hola, soy **Almu**! ✨
 
 <p align="center">
 
