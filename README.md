@@ -18,7 +18,7 @@ Tengo amplio background en Recursos Humanos y visión estratégica. Analizo, vis
 
 ## ⚙️ Tecnologías que utilizo
 
-### 🖥️ Programación y análisis de datos
+<h3 align="center"><strong>🖥️ Programación y análisis de datos</strong></h3>
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -26,20 +26,21 @@ Tengo amplio background en Recursos Humanos y visión estratégica. Analizo, vis
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
-### 📊 Visualización de datos
+<h3 align="center"><strong>📊 Visualización de datos</strong></h3>
 <p align="center">
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-FFB900?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-3E99C1?style=for-the-badge&logo=tableau&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-### 🔧 APIs y bases de datos
+<h3 align="center"><strong>🔧 APIs y bases de datos</strong></h3>
+
 <p align="center">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-### 🔄 Control de versiones
+<h3 align="center"><strong>🔄 Control de versiones</strong></h3>
 <p align="center">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
