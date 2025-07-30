@@ -15,7 +15,7 @@ Tengo amplio background en Recursos Humanos y visión estratégica. Analizo, vis
 
 ---
 
-## ⚙️ Tecnologías que utilizo
+## ⚙️ Tools
 
 <h3 align="center"><strong>🖥️ Programación y análisis de datos</strong></h3>
 <p align="center">
