@@ -49,7 +49,9 @@ Tengo amplio background en Recursos Humanos y visión estratégica. Analizo, vis
 
 ## 🚀 Proyectos destacados
 
-📌 Aquí añadiré mis proyectos próximamente.
+📌 ## 🚀 Proyectos Destacados
+
+- [ Juego infantil Verdadero-Falso]([https://github.com/Almu/analisis-satisfaccion-laboral](https://github.com/AlmuSF/juego_infantil_Verdadero-Falso.git)): Juego interactivo para los más peques con preguntas para fomentar su entretenimiento y aprendizaje cuando están de viaje, largas esperas o una tarde aburrida en casa.
 
 ---
 | Snake Eating Contributions in the last year |
