@@ -1,6 +1,8 @@
 
 # ¡Hola, soy **Almu**! ✨
 
+<img src="Images/Frontpage.gif" alt="Profile GIF" width="600"/>
+
 ## 👩‍💻 Data Analyst / People Analytics
 
 **📍 Desde Málaga | 📊 Apasionada por los datos y la visualización | 🧠 Siempre aprendiendo**
