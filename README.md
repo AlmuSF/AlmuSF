@@ -1,6 +1,8 @@
 <h1 align="center">
-# ¡Hola, soy **Almu**! ✨
-
+¡Hola👋, soy Almu! ✨
+  </a>
+</h1>
+<hr/>
 <p align="center">
   <!-- Reference a GIF profile image uploaded to your repo, e.g., images/profile.gif -->
   <img src="Images/Frontpage.gif" alt="Profile GIF" width="600"/>
