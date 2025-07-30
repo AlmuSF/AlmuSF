@@ -47,11 +47,32 @@ Tengo amplio background en Recursos Humanos y visión estratégica. Analizo, vis
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Proyectos Destacados
 
-📌 ## 🚀 Proyectos Destacados
+---
 
-- [ Juego infantil Verdadero-Falso]([https://github.com/Almu/analisis-satisfaccion-laboral](https://github.com/AlmuSF/juego_infantil_Verdadero-Falso.git)): Juego interactivo para los más peques con preguntas para fomentar su entretenimiento y aprendizaje cuando están de viaje, largas esperas o una tarde aburrida en casa.
+### **[🎯 Juego Infantil "Verdadero o Falso"](https://github.com/AlmuSF/juego_infantil_Verdadero-Falso)**  
+*Juego educativo en Python con preguntas simples de lógica y cultura general para niños.*
+
+---
+
+### **[✈️ Análisis de Actividad de Clientes de Vuelo](https://github.com/AlmuSF/Customer-Flight-Activity)**  
+*Análisis de datos de clientes y vuelos usando Python (pandas, matplotlib y seaborn) para descubrir patrones de comportamiento, perfiles de usuarios y frecuencia de vuelos.*
+
+---
+
+### **[🎵 Análisis de Reproducciones Musicales](https://github.com/AlmuSF/Proyecto-Music-stream)**  
+*Exploración de datos de una plataforma de música en streaming, segmentando usuarios por hábitos de escucha, géneros favoritos o niveles de fidelización, entre otros.*
+
+---
+
+### **[🌍 Cambio Climático: Evolución y Tendencias](https://github.com/AlmuSF/Proyecto-Climate-change)**  
+*Análisis de datos climáticos a lo largo de los años con visualizaciones en Power BI para identificar patrones de calentamiento global, eventos extremos, desforestación y nivel del mar.*
+
+---
+
+
+---
 
 ---
 | Snake Eating Contributions in the last year |
