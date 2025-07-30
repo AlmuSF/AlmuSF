@@ -1,7 +1,10 @@
 
 # ¡Hola, soy **Almu**! ✨
 
-<img src="Images/Frontpage.gif" alt="Profile GIF" width="600"/>
+<p align="center">
+  <!-- Reference a GIF profile image uploaded to your repo, e.g., images/profile.gif -->
+  <img src="Images/Frontpage.gif" alt="Profile GIF" width="600"/>
+</p>
 
 ## 👩‍💻 Data Analyst / People Analytics
 
