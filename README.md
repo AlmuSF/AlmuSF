@@ -10,7 +10,7 @@
 
 ## 👩‍💻 Data Analyst / People Analytics
 
-**📍 Desde Málaga | 📊 Apasionada por los datos y la visualización | 🧠 Siempre aprendiendo**
+**📊 Apasionada por los datos y la visualización | 🧠 Siempre aprendiendo**
 
 🎯Transformo datos en decisiones que marcan la diferencia.🎯
 
