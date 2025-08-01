@@ -78,10 +78,10 @@ Tengo amplio background en Recursos Humanos y visión estratégica. Analizo, vis
 
 ---
 
+### **[🧩 Juego del ahorcado](https://github.com/AlmuSF/Proyecto_Juego_Ahorcado)**
+*Programación del juego en Python para el entretenimiento de todos los públicos.*
 
 ---
-
-
 ## 📫 Conecta conmigo
 
 <p align="center">
