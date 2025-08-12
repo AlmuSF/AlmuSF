@@ -57,6 +57,9 @@ Tengo amplio background en Recursos Humanos y visión estratégica. Analizo, vis
 ## 🚀 Proyectos Destacados
 
 ---
+### **[🏠Informe compra-venta viviendas Api Idealista 2010-2013)**
+* Análisis de datos extraidos de las Apis de Idealista en el periodo temporal de mayo 2010-marzo 2013.* 
+---
 
 ### **[🎯 Juego Infantil "Verdadero o Falso"](https://github.com/AlmuSF/juego_infantil_Verdadero-Falso)**  
 *Juego educativo en Python con preguntas simples de lógica y cultura general para niños.*
