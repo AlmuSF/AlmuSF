@@ -58,7 +58,7 @@ Tengo amplio background en Recursos Humanos y visión estratégica. Analizo, vis
 
 ---
 ### **[🏠 Informe compra-venta viviendas Idealista](https://github.com/AlmuSF/Informe-compra-venta-viviendas-idealista-)**  
-  *Análisis de datos extraidos de las Apis de Idealista en el periodo temporal de mayo 2010-marzo 2013.* 
+* Análisis de datos extraidos de las Apis de Idealista en el periodo temporal de mayo 2010-marzo 2013. 
 ---
 
 ### **[🎯 Juego Infantil "Verdadero o Falso"](https://github.com/AlmuSF/juego_infantil_Verdadero-Falso)**  
