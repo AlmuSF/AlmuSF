@@ -57,6 +57,11 @@ Tengo amplio background en Recursos Humanos y visión estratégica. Analizo, vis
 ## 🚀 Proyectos Destacados
 
 ---
+### **[📈 Análisis Financiero](https://github.com/AlmuSF/An-lisis-financiero)**  
+*Realización de un PyG, Balance General y ratios financieros para tomar decisiones claves para la salud financiera de la empresa.*
+
+---
+
 ### **[🏠 Informe compra-venta viviendas Idealista](https://github.com/AlmuSF/Informe-compra-venta-viviendas-idealista-)**  
 * Análisis de datos extraidos de las Apis de Idealista en el periodo temporal de mayo 2010-marzo 2013. 
 ---
@@ -68,11 +73,6 @@ Tengo amplio background en Recursos Humanos y visión estratégica. Analizo, vis
 
 ### **[✈️ Análisis de Actividad de Clientes de Vuelo](https://github.com/AlmuSF/Customer-Flight-Activity)**  
 *Análisis de datos de clientes y vuelos usando Python (pandas, matplotlib y seaborn) para descubrir patrones de comportamiento, perfiles de usuarios y frecuencia de vuelos.*
-
----
-
-### **[🎵 Análisis de Reproducciones Musicales](https://github.com/AlmuSF/Proyecto-Music-stream)**  
-*Exploración de datos de una plataforma de música en streaming, segmentando usuarios por hábitos de escucha, géneros favoritos o niveles de fidelización, entre otros.*
 
 ---
 
